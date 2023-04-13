@@ -1,0 +1,41 @@
+.item-bg-two {
+    background-image: url(../images/mainbg.jpg);
+}
+
+.main-banner::before {
+    opacity: 1;
+}
+.ctr-area::before{
+    opacity: 1;
+}
+.shape img{
+    width: 100%;
+}
+.app_btn{
+    justify-content: flex-end;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #1e69ff;
+    border-color: #1e69ff;
+}
+.ctr-area .section-title p{
+    color: black;
+}
+
+.carousel_itm:hover{
+    cursor: grab;
+    border: 1px solid #1e69ff;
+    color:white
+}
+.carousel_itm:hover p{
+    color: white;
+}
+
+.ctr-area .section-title p{
+    color: white !important;
+}
+.site-footer{
+    padding-top: 0;
+}
