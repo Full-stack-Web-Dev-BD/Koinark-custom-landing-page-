@@ -1,3 +1,6 @@
+img{
+    max-width: 100%;
+}
 .item-bg-two {
     background-image: url(../images/mainbg.jpg);
 }
@@ -36,6 +39,11 @@
 .ctr-area .section-title p{
     color: white !important;
 }
-.site-footer{
-    padding-top: 0;
+
+.build_with_content h1{
+    font-size: 45px;
+    margin: 50px 0;
+}
+.build_with_content p{
+    font-size: 18px;
 }
